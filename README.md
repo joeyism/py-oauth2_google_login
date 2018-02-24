@@ -1,6 +1,8 @@
 # oauth2_google_login
 Gets OAuth2 access token from Google/YouTube automatically, using [requests_oauthlib](https://github.com/requests/requests-oauthlib)
 
+I developed this when I found that I needed to get data from Google and YouTube API automatically, but there was always the human entry for OAuth2 flow. This library takes care of that with your selected webdriver
+
 ## Installation
 
 ```bash
